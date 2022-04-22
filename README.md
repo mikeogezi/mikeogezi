@@ -3,3 +3,4 @@
 - I am grateful to be supervised by [Greg Kondrak](http://webdocs.cs.ualberta.ca/~kondrak/).
 - Specifically, I'm interested in grounding language within the visually perceived world. I'm also interested in getting robots to understand open-ended natural language commands.
 - To a lesser extent, I'm interested in Quantum Computing ⚛️ and Astronomy 🌌.
+- I was previously a Software Engineer at [Helicarrier](https://helicarrierstudio.com/), where I did some especially cool work, and [TeamApt](https://teamapt.com/).
